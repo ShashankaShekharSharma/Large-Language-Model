@@ -11,3 +11,10 @@ Used for applications such as computer vision and natural language processing. F
 
 # Machine Learning
 Machine Learning is turning things into numnbers and finding patterns in those numbers
+
+# Tensors
+A tensor is generalisation of vectors and matrices and is easily understood as a multidimensional array. It is a term and set of techniques known in machine learning in the training and operation of deep learning models can be described in terms of tensors. In many cases tensors are used as a replacement of Numpy to use the power of GPUs
+
+Tensors are a type of data structure used in linear algebra and like vectors and matrices, you can calculate arithmetic operatios with tensors
+
+`numpy can only handle CPU tensors`
